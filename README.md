@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code0ut
 - 👀 I’m interested in app development ,A.I. and Data Science.
-- 🌱 I’m currently learning app development and Dsa.
+
 
 
 <!---
